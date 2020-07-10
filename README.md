@@ -10,6 +10,7 @@
 ![프로젝트 시나리오](https://user-images.githubusercontent.com/31653025/87135374-ed669600-c2d4-11ea-9605-334d4647e0da.png)
 
 ## Project Architecture
+![위드어스-프로젝트 구조](https://user-images.githubusercontent.com/31653025/87139377-d9be2e00-c2da-11ea-846b-d407b4036ec2.png)
 
 ## Server & Client
 - [With-Us-API](https://github.com/mentalK94/With-US-api)
