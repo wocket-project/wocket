@@ -9,6 +9,32 @@
 ## Project Scenario
 ![프로젝트 시나리오](https://user-images.githubusercontent.com/31653025/87135374-ed669600-c2d4-11ea-9605-334d4647e0da.png)
 
+## Project 기능
+```
+- 회원관련 기능
+    * 회원가입
+    * 회원정보 수정
+    * 회원조회(Admin Page에서 개발예정)
+    * 회원삭제(Admin Page에서 개발예정)
+    * 회원가입시 이메일 인증
+    
+- 상품관련 기능
+    * 상품 등록
+    * 상품 수정(Admin Page에서 개발예정)
+    * 상품 삭제(Admin Page에서 개발예정)
+    * 상품 검색(추후 개발예정)
+    * 상품 조회
+    * 상품 상세조회
+    * 오늘의 추천상품    
+
+- 구매관련 기능
+    * 장바구니 관리
+    * 상품결제
+    * 상품Q&A
+    * 상품리뷰
+
+```
+
 ## Project Architecture
 ![위드어스-프로젝트 구조](https://user-images.githubusercontent.com/31653025/87139377-d9be2e00-c2da-11ea-846b-d407b4036ec2.png)
 
