@@ -43,19 +43,19 @@
 - [With-Us-Web](https://github.com/mentalK94/With-US-Web)
 
 ## Demo Page
-<img src="https://user-images.githubusercontent.com/31653025/87141412-f7d95d80-c2dd-11ea-850c-1b8b9f6b96fe.JPG" width="470px" height="300px"></img>
-<img src="https://user-images.githubusercontent.com/31653025/87141402-f4de6d00-c2dd-11ea-8f7f-d833f7cdf651.JPG" width="470px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141412-f7d95d80-c2dd-11ea-850c-1b8b9f6b96fe.JPG" width="450px" height="300px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141402-f4de6d00-c2dd-11ea-8f7f-d833f7cdf651.JPG" width="450px" height="300px"></img>
 * 메인페이지 / 오늘의 추천상품
 
-<img src="https://user-images.githubusercontent.com/31653025/87141413-f871f400-c2dd-11ea-8f48-c22d059694d2.JPG" width="470px" height="600px"></img>
-<img src="https://user-images.githubusercontent.com/31653025/87141405-f60f9a00-c2dd-11ea-8a4b-2506918e4ea9.JPG" width="470px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141413-f871f400-c2dd-11ea-8f48-c22d059694d2.JPG" width="450px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141405-f60f9a00-c2dd-11ea-8a4b-2506918e4ea9.JPG" width="450px" height="600px"></img>
 * 상품 세부정보 페이지 / 장바구니 페이지
 
-<img src="https://user-images.githubusercontent.com/31653025/87141407-f6a83080-c2dd-11ea-81bd-aeed9b373e78.JPG" width="470px" height="600px"></img>
-<img src="https://user-images.githubusercontent.com/31653025/87141409-f6a83080-c2dd-11ea-9f9e-3de45ff1e4b3.JPG" width="470px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141407-f6a83080-c2dd-11ea-81bd-aeed9b373e78.JPG" width="450px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141409-f6a83080-c2dd-11ea-9f9e-3de45ff1e4b3.JPG" width="450px" height="600px"></img>
 * 상품 주문 페이지 / 주문 완료페이지
 
-<img src="https://user-images.githubusercontent.com/31653025/87141411-f740c700-c2dd-11ea-97b9-c5f78ceb2598.JPG" width="470px" height="600px"></img>
+<img src="https://user-images.githubusercontent.com/31653025/87141411-f740c700-c2dd-11ea-97b9-c5f78ceb2598.JPG" width="450px" height="600px"></img>
 * 구매내역 페이지
 
 ## Demo
