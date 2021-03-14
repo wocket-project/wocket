@@ -1,4 +1,4 @@
-# With-Us ver 1.0
+# wocket - release 2.0.0 출시예정(2021. 03. 21.)
 ## Project
  - 웹 쇼핑몰 서비스(ex. Coupang, Tmon..)
  
